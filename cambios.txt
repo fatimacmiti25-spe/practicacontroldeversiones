@@ -1,0 +1,2 @@
+Cambios realizados en mi aplicación móvil.
+Se creó una nueva rama para trabajar con GitHub.
